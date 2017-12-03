@@ -6,7 +6,7 @@
 * http://gank.io/api/data/iOS/10/1
 * http://gank.io/api/data/前端/10/1
 * http://gank.io/api/data/休息视频/10/1
-* http://gank.io/api/data/拓展资源/10/1
+* http://gank.io/api/data/拓展资源/10/1 
 * http://gank.io/api/data/all/10/1
 ### 使用到的框架
 * 图片加载框架 Glide  compile 'com.github.bumptech.glide:glide:3.7.0'
